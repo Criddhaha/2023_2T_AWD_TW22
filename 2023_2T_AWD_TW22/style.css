@@ -1,0 +1,107 @@
+ #resume_outer_div
+
+{
+
+width: 70%;
+
+height: 70%;
+
+border: solid;
+
+}
+
+#inner_div
+
+{
+
+margin: 10px;
+
+}
+
+#resume
+
+{
+
+font-family: arial;
+
+text-align: center;
+
+}
+
+#objective
+
+{
+
+background-color: silver;
+
+border: solid;
+
+}
+
+#skills
+
+{
+
+background-color: silver;
+
+border: solid;
+
+}
+
+#educational_qualifications
+
+{
+
+background-color: silver;
+
+border: solid;
+
+}
+
+table
+
+{
+
+width: 100%;
+
+border-collapse: collapse;
+
+}
+
+table td, th
+
+{
+
+border: 2px solid;
+
+text-align: center;
+
+}
+
+#work_experience
+
+{
+
+background-color: silver;
+
+border: solid;
+
+}
+
+#professional_achievements
+
+{
+
+background-color: silver;
+
+border: solid;
+
+}
+
+#profileImage {
+    width: 100px; /* Adjust the size as needed */
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px; /* Add margin for spacing */
+}
